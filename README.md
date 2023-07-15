@@ -1,8 +1,2 @@
-
-<figure>
-  <img src="./IMG-0181.jpg" alt="Daddy and Tanvi" width="173" height="263">
-  <figcaption>
-    Daddy and Tanvi after volleyball
-  </figcaption>
-</figure>
-
+[<img src="./IMG-0181.jpg" alt="DadandTanvi" width="173" height="263">](rowdiell.github.io/DadTanVolleyball)
+<sub>Daddy and Tanvi after Volleyball</sub>
